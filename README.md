@@ -8,6 +8,7 @@ Colección de trabajos académicos centrados en exploración, integración y cal
 - `titanic-eda`: limpieza y análisis exploratorio del dataset Titanic.
 - `multisource-joins`: integración de múltiples fuentes y evaluación de joins.
 - `missing-data`: diagnóstico de faltantes y outliers sobre Ames Housing, con comparación de distribuciones y correlaciones.
+- `feature-scaling`: Práctica 6 sobre escalado, transformaciones, outliers y pipelines anti-leakage con Ames Housing.
 
 ## Competencias demostradas
 

@@ -9,13 +9,14 @@ Colección de trabajos académicos centrados en exploración, integración y cal
 - `multisource-joins`: integración de múltiples fuentes y evaluación de joins.
 - `missing-data`: diagnóstico de faltantes y outliers sobre Ames Housing, con comparación de distribuciones y correlaciones.
 - `feature-scaling`: Práctica 6 sobre escalado, transformaciones, outliers y pipelines anti-leakage con Ames Housing.
+- `fairness`: Práctica 7 sobre detección y mitigación de sesgos, métricas de equidad y análisis ético con Boston Housing, Titanic y Ames Housing.
 
 ## Competencias demostradas
 
-Profiling de datos, tratamiento de valores faltantes, detección de outliers, análisis estadístico, visualización, joins y comunicación de resultados reproducibles.
+Profiling de datos, tratamiento de valores faltantes, detección de outliers, análisis estadístico, visualización, joins, evaluación de sesgos y comunicación de resultados reproducibles.
 
 ## Tecnologías
 
-Python, Jupyter, pandas, NumPy, Matplotlib, Seaborn y scikit-learn.
+Python, Jupyter, pandas, NumPy, Matplotlib, Seaborn, scikit-learn y Fairlearn.
 
 Los datasets incluidos son conjuntos académicos públicos y se conservan para facilitar la reproducción de los análisis.

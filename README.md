@@ -10,10 +10,12 @@ Colección de trabajos académicos centrados en exploración, integración y cal
 - `missing-data`: diagnóstico de faltantes y outliers sobre Ames Housing, con comparación de distribuciones y correlaciones.
 - `feature-scaling`: Práctica 6 sobre escalado, transformaciones, outliers y pipelines anti-leakage con Ames Housing.
 - `fairness`: Práctica 7 sobre detección y mitigación de sesgos, métricas de equidad y análisis ético con Boston Housing, Titanic y Ames Housing.
+- `feature-engineering`: Práctica 8 sobre creación, análisis y evaluación de variables derivadas para datos inmobiliarios.
+- `categorical-encoding`: Práctica 9 sobre encoding avanzado de variables categóricas y target encoding.
 
 ## Competencias demostradas
 
-Profiling de datos, tratamiento de valores faltantes, detección de outliers, análisis estadístico, visualización, joins, evaluación de sesgos y comunicación de resultados reproducibles.
+Profiling de datos, tratamiento de valores faltantes, detección de outliers, análisis estadístico, visualización, joins, evaluación de sesgos, feature engineering, encoding de variables categóricas y comunicación de resultados reproducibles.
 
 ## Tecnologías
 

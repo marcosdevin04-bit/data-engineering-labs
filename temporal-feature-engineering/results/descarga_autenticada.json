@@ -1,0 +1,9 @@
+{
+  "dataset": "vijayuv/onlineretail",
+  "authenticated": true,
+  "method": "KAGGLE_API_TOKEN",
+  "downloaded_at_utc": "2026-10-09T13:23:56.682513+00:00",
+  "file": "data/online_retail/OnlineRetail.csv",
+  "sha256": "d07aec9960083af2339975a3f9d3b26313b342dcd9f86cce0b919b1cde639a44",
+  "identical_to_analyzed_data": true
+}

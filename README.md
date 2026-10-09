@@ -12,10 +12,12 @@ Colección de trabajos académicos centrados en exploración, integración y cal
 - `fairness`: Práctica 7 sobre detección y mitigación de sesgos, métricas de equidad y análisis ético con Boston Housing, Titanic y Ames Housing.
 - `feature-engineering`: Práctica 8 sobre creación, análisis y evaluación de variables derivadas para datos inmobiliarios.
 - `categorical-encoding`: Práctica 9 sobre encoding avanzado de variables categóricas y target encoding.
+- `pca-feature-selection`: Actividad 10 sobre PCA, filtros, wrappers, métodos embedded y selección de variables en Ames Housing.
+- `temporal-feature-engineering`: Actividad 11 sobre variables temporales, validación cronológica y predicción de recompra con Online Retail y Olist.
 
 ## Competencias demostradas
 
-Profiling de datos, tratamiento de valores faltantes, detección de outliers, análisis estadístico, visualización, joins, evaluación de sesgos, feature engineering, encoding de variables categóricas y comunicación de resultados reproducibles.
+Profiling de datos, tratamiento de valores faltantes, detección de outliers, análisis estadístico, visualización, joins, evaluación de sesgos, feature engineering, encoding de variables categóricas, reducción de dimensionalidad, selección de variables, validación temporal y comunicación de resultados reproducibles.
 
 ## Tecnologías
 

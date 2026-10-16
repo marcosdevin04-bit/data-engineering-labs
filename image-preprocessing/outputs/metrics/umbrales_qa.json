@@ -1,0 +1,8 @@
+{
+  "min_keypoints": 100,
+  "min_edges": 0.02,
+  "max_edges": 0.15,
+  "min_std": 20,
+  "min_geometric_precision": 0.7,
+  "min_relative_std": 0.8
+}

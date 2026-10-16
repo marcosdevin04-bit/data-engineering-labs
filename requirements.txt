@@ -6,3 +6,5 @@ scikit-learn
 scipy
 fairlearn
 jupyter
+opencv-contrib-python
+scikit-image

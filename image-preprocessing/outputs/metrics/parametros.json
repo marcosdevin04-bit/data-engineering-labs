@@ -1,0 +1,32 @@
+{
+  "seed": 42,
+  "clahe": {
+    "clipLimit": 2.0,
+    "tileGridSize": [
+      8,
+      8
+    ]
+  },
+  "gaussian": {
+    "ksize": [
+      5,
+      5
+    ],
+    "sigmaX": 1.2
+  },
+  "bilateral": {
+    "d": 9,
+    "sigmaColor": 75,
+    "sigmaSpace": 75
+  },
+  "canny": [
+    50,
+    150
+  ],
+  "orb": {
+    "nfeatures": 1000,
+    "scaleFactor": 1.2,
+    "nlevels": 8
+  },
+  "geometric_tolerance_px": 3.0
+}

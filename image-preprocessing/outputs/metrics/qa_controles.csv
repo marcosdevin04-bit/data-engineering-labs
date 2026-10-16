@@ -1,0 +1,3 @@
+image,variant,num_keypoints,edges_ratio,contrast_std,geometric_precision,relative_std,alerts
+uniforme,control,0,0.0,0.0,0.0,0.0,pocos keypoints; ratio de bordes fuera de perfil; STD baja; matches poco consistentes; caída de STD vs baseline
+blur_fuerte,control,30,0.0,62.80432891845703,0.15789473684210525,0.8360185238691483,pocos keypoints; ratio de bordes fuera de perfil; matches poco consistentes

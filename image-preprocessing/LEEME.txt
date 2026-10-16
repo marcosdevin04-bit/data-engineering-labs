@@ -1,0 +1,26 @@
+UT4-13 — Preprocesamiento de imágenes
+
+Abrir UT4_13_Preprocesamiento_Imagenes_Completo.ipynb desde esta carpeta.
+Completar el nombre de la portada. Los resultados y gráficos están guardados.
+Para ejecutar en otro equipo: instalar requirements.txt en Python 3.12 y abrir
+Jupyter desde la carpeta de esta entrega. Mantener las carpetas data y outputs.
+
+CONTENIDO
+Partes A–D: representación, histogramas, HSV/LAB, contraste global/CLAHE,
+Gaussian/bilateral, Canny, ORB, descriptores y matching con validación geométrica.
+Respuestas de reflexión de cada parte y preguntas finales.
+Tres extras: sensibilidad–ruido (216 evaluaciones), ORB/SIFT (24 pares
+imagen/algoritmo, tres repeticiones) y dashboard QA (48 filas más dos controles).
+
+DATOS Y RESULTADOS
+data/raw: doce imágenes de ejemplo de scikit-image.
+data/sources.json: función de procedencia, referencia y SHA256 de cada PNG.
+outputs/preproc: variantes; outputs/features: overlays y matches.
+outputs/figures: gráficos. outputs/metrics: CSV, parámetros y dashboard_qa.html.
+El HTML se puede abrir con un navegador y no depende de servicios externos.
+
+Los umbrales QA son heurísticos; más contraste, bordes o keypoints no prueban
+mejor calidad. Los matches se validan con la geometría conocida. El proxy de
+ruido no es ground truth y los tiempos dependen de este equipo y estas imágenes.
+
+Consigna: https://juanfkurucz.com/ucu-id/ut4/13-preprocesamiento-imagenes/

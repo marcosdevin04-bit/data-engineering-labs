@@ -9,6 +9,7 @@ Colección de trabajos académicos centrados en exploración, integración y cal
 - `multisource-joins`: integración de múltiples fuentes y evaluación de joins.
 - `missing-data`: diagnóstico de faltantes y outliers sobre Ames Housing, con comparación de distribuciones y correlaciones.
 - `feature-scaling`: Práctica 6 sobre escalado, transformaciones, outliers y pipelines anti-leakage con Ames Housing.
+- `image-preprocessing`: Actividad 13 de preprocesamiento de imágenes: color, contraste global y CLAHE, suavizado, bordes, ORB/SIFT, matching y dashboard QA. Incluye notebook ejecutado, respuestas, imágenes y tres tareas extra.
 - `fairness`: Práctica 7 sobre detección y mitigación de sesgos, métricas de equidad y análisis ético con Boston Housing, Titanic y Ames Housing.
 - `feature-engineering`: Práctica 8 sobre creación, análisis y evaluación de variables derivadas para datos inmobiliarios.
 - `categorical-encoding`: Práctica 9 sobre encoding avanzado de variables categóricas y target encoding.

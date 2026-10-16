@@ -1,0 +1,74 @@
+[
+  {
+    "file": "camera.png",
+    "source": "skimage.data.camera",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.camera",
+    "sha256": "ffd02455471de684a50e0d887bb6516398530d0ea08b2fc6cef4ce210b4e36a1"
+  },
+  {
+    "file": "astronaut.png",
+    "source": "skimage.data.astronaut",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.astronaut",
+    "sha256": "48d3711f1f40fbbd45b2e3720cf1c084b3b873e02bf292da08a312ca67cf2939"
+  },
+  {
+    "file": "coffee.png",
+    "source": "skimage.data.coffee",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.coffee",
+    "sha256": "bc7c679e93a04b35aef5c5d644f0293d6aac8df7ccbba06f1d5bdddc0285050b"
+  },
+  {
+    "file": "coins.png",
+    "source": "skimage.data.coins",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.coins",
+    "sha256": "4eb5213d0e9ddc2b9b05efd004b166d86cef525a991b4c05e44d080e82c8c01e"
+  },
+  {
+    "file": "checkerboard.png",
+    "source": "skimage.data.checkerboard",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.checkerboard",
+    "sha256": "d635f9bdc3b9188b4b161e6fde9d97d2bb940ac8c17b26666af078998e97b3cd"
+  },
+  {
+    "file": "rocket.png",
+    "source": "skimage.data.rocket",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.rocket",
+    "sha256": "5f73974a1b73af2eaf2d9a60014fc167c0e41d4a13a34ca9bb138126991caf7f"
+  },
+  {
+    "file": "page.png",
+    "source": "skimage.data.page",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.page",
+    "sha256": "106f636d84523e0fa09db9cf1ed2d98058918870265dd6940bb24d41eb3002dd"
+  },
+  {
+    "file": "chelsea.png",
+    "source": "skimage.data.chelsea",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.chelsea",
+    "sha256": "adbb6c59da5251983dfca65bd3d055e3d2cb9d49f85af5d473852a9033e42f24"
+  },
+  {
+    "file": "text.png",
+    "source": "skimage.data.text",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.text",
+    "sha256": "d2c7b279d6a5a5f8600f6a16a4e42d07192dec55dd9ffe0b2dc0891797c7389a"
+  },
+  {
+    "file": "brick.png",
+    "source": "skimage.data.brick",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.brick",
+    "sha256": "1c1fb4caea0145fbcd384f48cb2b584312e49453ac73f6715378e3c505e02304"
+  },
+  {
+    "file": "grass.png",
+    "source": "skimage.data.grass",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.grass",
+    "sha256": "f8b35e3d880ec3905e9d05b8eee080e8d18d51dec354db62880fed600549d219"
+  },
+  {
+    "file": "moon.png",
+    "source": "skimage.data.moon",
+    "reference": "https://scikit-image.org/docs/stable/api/skimage.data.html#skimage.data.moon",
+    "sha256": "83dbd9daa4f85513a612e27127ab04eb50f58deb8ccda96d68fa5564b77a3a4c"
+  }
+]

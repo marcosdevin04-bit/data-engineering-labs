@@ -1,0 +1,4 @@
+model,accuracy_test,macro_f1_test,n_test
+Dummy,0.1,0.01818181818181818,20
+Original,0.6,0.5566666666666666,20
+Con aumento,0.5,0.41,20

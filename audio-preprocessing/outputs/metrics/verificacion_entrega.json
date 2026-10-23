@@ -1,0 +1,16 @@
+{
+  "notebook": "UT4_14_Audio_Completo.ipynb",
+  "executed_code_cells": 21,
+  "all_cells": 52,
+  "feature_clips": 100,
+  "numeric_features": 28,
+  "qa_clips": 200,
+  "augmented_rows": 260,
+  "verified_wav_hashes": 200,
+  "figures": 14,
+  "qa_counts": {
+    "dudoso": 180,
+    "OK": 20
+  },
+  "checks_passed": true
+}

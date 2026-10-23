@@ -1,0 +1,14 @@
+{
+  "seed": 42,
+  "sample_rate": 16000,
+  "duration_sec": 3.0,
+  "mono": true,
+  "peak": 0.99,
+  "trim_top_db": 30.0,
+  "n_fft": 2048,
+  "hop_length": 512,
+  "n_mfcc": 13,
+  "n_mels": 40,
+  "highpass_hz": 80.0,
+  "normalization": "peak; not loudness"
+}

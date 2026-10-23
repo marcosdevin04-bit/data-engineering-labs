@@ -16,6 +16,8 @@ Colección de trabajos académicos centrados en exploración, integración y cal
 - `pca-feature-selection`: Actividad 10 sobre PCA, filtros, wrappers, métodos embedded y selección de variables en Ames Housing.
 - `temporal-feature-engineering`: Actividad 11 sobre variables temporales, validación cronológica y predicción de recompra con Online Retail y Olist.
 
+- `audio-preprocessing`: Actividad 14 sobre audio: estandarización, espectrogramas, ruido y filtros, MFCC, clasificación, aumentos y QA. Incluye notebook ejecutado, análisis, 200 audios reales y extras E.1–E.3 y F.1–F.3.
+
 ## Competencias demostradas
 
 Profiling de datos, tratamiento de valores faltantes, detección de outliers, análisis estadístico, visualización, joins, evaluación de sesgos, feature engineering, encoding de variables categóricas, reducción de dimensionalidad, selección de variables, validación temporal y comunicación de resultados reproducibles.

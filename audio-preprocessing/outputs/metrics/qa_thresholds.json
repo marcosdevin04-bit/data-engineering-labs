@@ -1,0 +1,15 @@
+{
+  "duration_min_sec": 2.5,
+  "duration_max_sec": 3.5,
+  "peak_max": 1.0,
+  "min_mfcc_frames_exclusive": 30,
+  "silence_rms": 1e-05,
+  "rms_review_low": 0.01,
+  "rms_review_high": 0.4,
+  "zcr_review_low": 0.005,
+  "zcr_review_high": 0.35,
+  "padding_review_fraction": 0.5,
+  "cropping_review_fraction": 0.35,
+  "source_clipping_review_fraction": 0.001,
+  "energy_contrast_review_db": 15.0
+}

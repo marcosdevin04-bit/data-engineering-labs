@@ -1,0 +1,1010 @@
+{
+  "dataset": "chrisfilo/urbansound8k",
+  "source": "https://www.kaggle.com/datasets/chrisfilo/urbansound8k",
+  "download_tool": "kagglehub.dataset_download(path=...)",
+  "metadata_total": 8732,
+  "selected": 200,
+  "selection": "2 clips por fold/clase; slot=0 para an\u00e1lisis principal de 100 clips",
+  "files": [
+    {
+      "file": "fold1/103074-7-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "53457aabcaeaa09433de4bbfbd52b7825fe487d7dd6e07b564570410e9fd3348"
+    },
+    {
+      "file": "fold1/118279-8-0-0.wav",
+      "bytes": 768044,
+      "sha256": "4abfa4e61b6c77fe759dcc5030b1b8cc4ca478e2c352f79854ebe4f23b707e9c"
+    },
+    {
+      "file": "fold1/132016-9-0-0.wav",
+      "bytes": 705644,
+      "sha256": "01e2a0357e47d7da6d619e43d77b0e2871780f23f15cd46c35f2cc095cea7578"
+    },
+    {
+      "file": "fold1/146186-5-0-0.wav",
+      "bytes": 768044,
+      "sha256": "a7ee3bec89f5bce62ba21b70db949f96f4b68ffa499dcb682cb836083495a5d5"
+    },
+    {
+      "file": "fold1/147764-4-0-0.wav",
+      "bytes": 299924,
+      "sha256": "455797077f5c095f010c4e2358f404b75948941a8150032e5a3d0b4cf8cbdb25"
+    },
+    {
+      "file": "fold1/155202-9-0-124.wav",
+      "bytes": 1058480,
+      "sha256": "09e4468b500a63b39e316927040c2d9e932eb590570538c9250376a66bcbbf30"
+    },
+    {
+      "file": "fold1/164053-8-0-0.wav",
+      "bytes": 705644,
+      "sha256": "83b640fb159ac7b3dea8fb9429e53a9c1ba79bc1657320753cb335386d6258c3"
+    },
+    {
+      "file": "fold1/165645-4-0-0.wav",
+      "bytes": 121760,
+      "sha256": "acc789c05e8fd9fbd87ea258ac99dda4274374bdf135668237c22e72cf3ec6b5"
+    },
+    {
+      "file": "fold1/174276-7-0-0.wav",
+      "bytes": 416320,
+      "sha256": "1d0e2360e14a7a843701f0eea13fa3c213901292411a377279c6236288d715e4"
+    },
+    {
+      "file": "fold1/174294-6-0-0.wav",
+      "bytes": 486904,
+      "sha256": "afe02bc261392399e50dec61d8b6bffd1a13c48b4a1869ac9716d5a6faf56e09"
+    },
+    {
+      "file": "fold1/175851-1-0-0.wav",
+      "bytes": 414800,
+      "sha256": "b8528226c32c289b13720aebde9eead2862a5d3097fc676b529e289cc5acb897"
+    },
+    {
+      "file": "fold1/177621-0-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "b6c31600347255f0561d4acd91638590b1358ad33cf6232d41463ba0820be341"
+    },
+    {
+      "file": "fold1/196065-2-0-0.wav",
+      "bytes": 478088,
+      "sha256": "d30feb520d8841535e8ccfbdf51d5360bf5b1300ae4dca81ed5c7dbfaa428565"
+    },
+    {
+      "file": "fold1/196079-2-0-0.wav",
+      "bytes": 421640,
+      "sha256": "9662adfdd36c2973fcc1ed31b9ccc678ad5e8052714f1eefbac4783930ff569c"
+    },
+    {
+      "file": "fold1/196400-6-0-0.wav",
+      "bytes": 553872,
+      "sha256": "54024f20687ddee73f08928ea2f23b0dafa5035ba9629b2b36df923dc5efac8b"
+    },
+    {
+      "file": "fold1/43786-3-0-0.wav",
+      "bytes": 116492,
+      "sha256": "d263b2e51ba295b27f17334b07d713af2fa28a7fe8879c06a5290fba67e0e315"
+    },
+    {
+      "file": "fold1/50901-0-0-0.wav",
+      "bytes": 352844,
+      "sha256": "1b78c0593d8fe688f9a360c91bfb2c02cdf4d76a7c93bea41ffedf76b717d53a"
+    },
+    {
+      "file": "fold1/72261-3-0-17.wav",
+      "bytes": 705644,
+      "sha256": "683bfea677c4a50b4cc5c213ac1e7443b51c00194a5a482a170fca70cc316df7"
+    },
+    {
+      "file": "fold1/89948-5-0-0.wav",
+      "bytes": 352844,
+      "sha256": "7572a93e91c39fe10ac431ec5089236827e8b92416f73aefbc5ec4cd40765a7b"
+    },
+    {
+      "file": "fold1/94868-1-0-0.wav",
+      "bytes": 50480,
+      "sha256": "5f4b232d2020b350b1d6ed6ee59930bff3c19619dee6f1e0e880d3f09d6d62d7"
+    },
+    {
+      "file": "fold10/115241-9-0-1.wav",
+      "bytes": 705644,
+      "sha256": "5b64344ed02676d8d4cd5bd22844d41d7423efae028f52f1c84408da7970d164"
+    },
+    {
+      "file": "fold10/119067-0-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "97c2f9851a92acda9bef40608e818379feb09c01971a3d0398622f098d99f186"
+    },
+    {
+      "file": "fold10/141240-5-0-0.wav",
+      "bytes": 807110,
+      "sha256": "8724faf7fc96c08f6ca128cd89e51810a8ec3540b01439c86abfd6f69751b1af"
+    },
+    {
+      "file": "fold10/155280-2-0-10.wav",
+      "bytes": 1058480,
+      "sha256": "7eebe32c527e91d827b15e1d70479a405b574903eafd50f915dc1251cdea8117"
+    },
+    {
+      "file": "fold10/159709-6-0-0.wav",
+      "bytes": 553040,
+      "sha256": "4daf61693bd25cd19840e4c5732538886b72950f83a4742897cc883b933dfca1"
+    },
+    {
+      "file": "fold10/165166-8-0-0.wav",
+      "bytes": 705644,
+      "sha256": "78cdc404e40cb710ab54c3ac39c2c693a097cd6f292b35ee66b55be004157e66"
+    },
+    {
+      "file": "fold10/174289-6-0-0.wav",
+      "bytes": 426284,
+      "sha256": "b6ff67bf9384ba12803fbadb7034e8893f7675adb54b03379fb6daae6514d11a"
+    },
+    {
+      "file": "fold10/178261-7-0-0.wav",
+      "bytes": 518480,
+      "sha256": "e998622e0fbc8e74abaf799ee77f51cba3ff0e82252ac25b89cd3fbfd002164c"
+    },
+    {
+      "file": "fold10/181624-4-0-0.wav",
+      "bytes": 305402,
+      "sha256": "06bc30b8e319702bfc011e9daca366a9603055b79bfe85e452af4bbd07bc5218"
+    },
+    {
+      "file": "fold10/188497-2-0-0.wav",
+      "bytes": 576080,
+      "sha256": "648987ba50b3d0c51a933d602550999368e53dcf1f53adfb07e88f9212099652"
+    },
+    {
+      "file": "fold10/188813-7-0-0.wav",
+      "bytes": 483920,
+      "sha256": "4120ad83ac79eb476af2d328064b8a7df6c8167a44d8608052f0c47c20405dfe"
+    },
+    {
+      "file": "fold10/195063-4-0-0.wav",
+      "bytes": 352844,
+      "sha256": "b7d641e56d6528188cb1d793f18138948f4f123e7219b394d13d20ecaa7eda6b"
+    },
+    {
+      "file": "fold10/199261-3-0-0.wav",
+      "bytes": 2304080,
+      "sha256": "89fb8d65745ca1d78f82633a215ba3cf9cbbda48fa118dc0de52aeaa60918992"
+    },
+    {
+      "file": "fold10/203424-9-0-15.wav",
+      "bytes": 705644,
+      "sha256": "62ca8e7a5a61458bc1c20df74930bdc96879da8fb0af4cb422cd22b18dd2a230"
+    },
+    {
+      "file": "fold10/208652-8-0-0.wav",
+      "bytes": 705644,
+      "sha256": "56477ea422b6cd07fc39be056fd9ddf75091a6b8164ce49f566a123a9be7597a"
+    },
+    {
+      "file": "fold10/28808-1-0-0.wav",
+      "bytes": 705644,
+      "sha256": "8dc51c884a2fb02b537a855751e030185258a1b997101d1a5dfae7d0ea58e20c"
+    },
+    {
+      "file": "fold10/2937-1-0-0.wav",
+      "bytes": 82952,
+      "sha256": "c5ee62b828fd9757b7930b208ad35e5e8454de63ab5c44a5f929bcdd61a40388"
+    },
+    {
+      "file": "fold10/39847-5-0-0.wav",
+      "bytes": 705644,
+      "sha256": "a197ed86a7fba8bac5514b07b5c7239d27a9118b857ab5fa85710db507ae50a5"
+    },
+    {
+      "file": "fold10/83502-0-0-0.wav",
+      "bytes": 705644,
+      "sha256": "5350656fc5557067cb2432f65c7e3f3a710ada21e2426fdb9da789b6a3a82ae1"
+    },
+    {
+      "file": "fold10/85574-3-0-0.wav",
+      "bytes": 384044,
+      "sha256": "94b1237b63d6e345477df042a48a705b1d44d0eaf487c6e5450999ac146dc661"
+    },
+    {
+      "file": "fold2/106015-5-0-0.wav",
+      "bytes": 576080,
+      "sha256": "283de5b147f8549a11466674dee33bd9f7ef04fd4f93f274222eb9bb9567d85a"
+    },
+    {
+      "file": "fold2/112195-3-0-38.wav",
+      "bytes": 705644,
+      "sha256": "020cc1a3f4672389b6b7b023ead722e426a9caf8ffeefbdb45699e6de94fbcd6"
+    },
+    {
+      "file": "fold2/145577-1-0-0.wav",
+      "bytes": 292616,
+      "sha256": "218656aba77e6867574a6ae974c0ec29991290c8ff8b05e819dd081f00731b33"
+    },
+    {
+      "file": "fold2/146690-0-0-100.wav",
+      "bytes": 1058480,
+      "sha256": "f6bd124eefc46e17a30bd1463cf4c80458f666c1120acd66a97c19f7b9e93664"
+    },
+    {
+      "file": "fold2/155129-1-0-0.wav",
+      "bytes": 26540,
+      "sha256": "c18ec141f6a0ebbc2bcd97eedbb37594db721e62a77b76e68b2a2ed102c5488b"
+    },
+    {
+      "file": "fold2/158607-3-0-0.wav",
+      "bytes": 268976,
+      "sha256": "a4301e5ecff37b9239eb4d4b8292dcb5fdd9b20536e4e02f363e8a2b98b3597e"
+    },
+    {
+      "file": "fold2/159743-8-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "479631de6b425c205a465663ab1a1f8cfb4b9a7c363f32f1394f4796051be9bf"
+    },
+    {
+      "file": "fold2/178520-2-0-11.wav",
+      "bytes": 1152080,
+      "sha256": "102f0427234add80b4c41942eb268dc1d13235b09795c951ed8dd0fe87d6bdf0"
+    },
+    {
+      "file": "fold2/185800-4-0-0.wav",
+      "bytes": 705644,
+      "sha256": "0d746b80316326c6c9e16305b643fd54edccac9bf0b60a256a4424b40301e678"
+    },
+    {
+      "file": "fold2/189023-0-0-0.wav",
+      "bytes": 768044,
+      "sha256": "691c574528fc25a97caa3794d037d4a9455a7efac67401e894449e0ded016e22"
+    },
+    {
+      "file": "fold2/194841-9-0-130.wav",
+      "bytes": 2304080,
+      "sha256": "aa4c87eb969a9340332f152753f9aee3473ab236367a8a4c56efd5b4997e5579"
+    },
+    {
+      "file": "fold2/196067-2-0-0.wav",
+      "bytes": 705644,
+      "sha256": "6777daa6c54bf6c732abd2566121f4a85ae05987a7f9ecc1abd69f778584479d"
+    },
+    {
+      "file": "fold2/197320-6-0-0.wav",
+      "bytes": 590480,
+      "sha256": "33062ea23a8d6165b18b5e1a9837e2a8ba03732998ce852e69129015ce0748b3"
+    },
+    {
+      "file": "fold2/203929-7-1-0.wav",
+      "bytes": 1411258,
+      "sha256": "7104008e8beb10433c3facf520f0cfcc34847883dbc813aafec98c8e78592c43"
+    },
+    {
+      "file": "fold2/37236-6-0-0.wav",
+      "bytes": 382832,
+      "sha256": "188cb4eb42612d9d1ad7f05c0169bf9f149b390b34b486c291841c84ef8c5907"
+    },
+    {
+      "file": "fold2/44735-5-0-0.wav",
+      "bytes": 705644,
+      "sha256": "28e62971bec63704dc086bb5a183f74940ff36914ed5512f1714a714c4d21f27"
+    },
+    {
+      "file": "fold2/66996-8-1-0.wav",
+      "bytes": 1411258,
+      "sha256": "ac5e4ef2e8be07d1bca09e23dfe3edb5e52fe86271e0fc8019c69ff7f3851e6b"
+    },
+    {
+      "file": "fold2/73623-7-0-0.wav",
+      "bytes": 336968,
+      "sha256": "40fd7e019ffa7e7927d44d460ac4a9ec16829aef486ec9937e667225adc325f5"
+    },
+    {
+      "file": "fold2/74226-9-0-0.wav",
+      "bytes": 705644,
+      "sha256": "4b06e637b03e99a1e14e80c4dd4ca09200ce7dc495c951d02e64e4415cfd1967"
+    },
+    {
+      "file": "fold2/77751-4-0-0.wav",
+      "bytes": 768044,
+      "sha256": "e8c9180ec2e9ec94b67e352ef05ce72251b3c423b39fb89250cfd87710828f08"
+    },
+    {
+      "file": "fold3/117048-3-0-17.wav",
+      "bytes": 705644,
+      "sha256": "de61b15bb4cb47d3647421deeac21f191a2f3c76465a9760633bad8898add9f6"
+    },
+    {
+      "file": "fold3/151359-1-0-0.wav",
+      "bytes": 26924,
+      "sha256": "787a1cac5c6c91fdf4605a2835a181ff56576e8a5d95ef308bab3804f0575c08"
+    },
+    {
+      "file": "fold3/15356-2-0-0.wav",
+      "bytes": 705644,
+      "sha256": "bc5c2ab4180872371042336d820ec91d2e926067535e2442a81f794e9e07adc0"
+    },
+    {
+      "file": "fold3/159761-0-0-0.wav",
+      "bytes": 705644,
+      "sha256": "fd9244ccbc4f9de3f4afca4f098f9a7693381a5c9bc27de2bd2a7932762cd6a4"
+    },
+    {
+      "file": "fold3/162431-6-0-0.wav",
+      "bytes": 622160,
+      "sha256": "a0686708f3441bf5682dc2515b78d1b3216199df9ed4608e3fbb33559fd4aadf"
+    },
+    {
+      "file": "fold3/175847-1-0-0.wav",
+      "bytes": 235232,
+      "sha256": "643dafc18dd4f6248d06c5c92d513164e540bd295f8b63ceb9701b2191143485"
+    },
+    {
+      "file": "fold3/177742-0-0-10.wav",
+      "bytes": 1152080,
+      "sha256": "d278a39cfbc7d7961a68da5b187cf7e325017f663bc8c1bdde8a966abe2667ce"
+    },
+    {
+      "file": "fold3/17853-5-0-0.wav",
+      "bytes": 705644,
+      "sha256": "326c753080867f80ed819de1071b4200404dae0811cc175e08ada1ee304592dd"
+    },
+    {
+      "file": "fold3/179386-3-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "a4608eb238a785b16329039b218c47d3e050df4af81e25f8654d20838e11f528"
+    },
+    {
+      "file": "fold3/188824-7-0-0.wav",
+      "bytes": 789200,
+      "sha256": "f30491656ca91303eac2765abda45a0111d14dba7cabed2959337358bf4d9a25"
+    },
+    {
+      "file": "fold3/19338-5-0-0.wav",
+      "bytes": 352844,
+      "sha256": "4de81dd50451a23538ac8c0ae36ddd94b2dc1715b1f8fec609dcb076217ef4df"
+    },
+    {
+      "file": "fold3/22601-8-0-0.wav",
+      "bytes": 768044,
+      "sha256": "c68cb7f1f86ead7e1ec27cee68293df28b86a830004fbb56d5713ebb0d916d04"
+    },
+    {
+      "file": "fold3/42097-7-0-0.wav",
+      "bytes": 705644,
+      "sha256": "f350d71a4fa8d286b048a9defdf0ded6d0a87342911ea8b7159187434f8ea625"
+    },
+    {
+      "file": "fold3/42117-8-0-0.wav",
+      "bytes": 705644,
+      "sha256": "870669bd44c09924b5ca532c7c4f613c4c2f5278e8814b926c32468af3886bad"
+    },
+    {
+      "file": "fold3/42937-4-0-0.wav",
+      "bytes": 576080,
+      "sha256": "ca621979d5706c259bd99a7cc3f2c6c646b2fe833f9bc84b7e234a84a05e332f"
+    },
+    {
+      "file": "fold3/63095-4-0-1.wav",
+      "bytes": 705644,
+      "sha256": "9bb07e4c2fd2b26e022032a1ec7f8fc14d2169a5e49691c6e84ff8abfab42bcc"
+    },
+    {
+      "file": "fold3/78776-6-0-0.wav",
+      "bytes": 444260,
+      "sha256": "27b2593ec1c617457aa1e26c1373e13d1b94542360abb5e140311868d151e6b1"
+    },
+    {
+      "file": "fold3/88569-2-0-14.wav",
+      "bytes": 705644,
+      "sha256": "93c69523a2745bb1d059b51c218e9f7e4b1e92df40119c7f125886f5e44a5039"
+    },
+    {
+      "file": "fold3/93065-9-0-12.wav",
+      "bytes": 705644,
+      "sha256": "c2b279fe124554c49f12977aa3f260ea3de681ab598e20bbbdcd17afd5ba831c"
+    },
+    {
+      "file": "fold3/94631-9-0-12.wav",
+      "bytes": 705644,
+      "sha256": "244feedb8b1cc8f23a4771948dbd75eaa45ff6785e19faab1731a2c7ce24d0ae"
+    },
+    {
+      "file": "fold4/110621-7-0-0.wav",
+      "bytes": 705644,
+      "sha256": "370283c48ebaddcdc7ed1f34f001ff4dd9c74c1eab77333677d67c113f0de653"
+    },
+    {
+      "file": "fold4/144007-5-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "2ec4ed8b59c302e4e93bd23689989712b77aae351d2a757cd29258779e9c02b6"
+    },
+    {
+      "file": "fold4/156362-4-0-0.wav",
+      "bytes": 1058480,
+      "sha256": "5a9c831eb878ed1781bbe21a9dcb15319e739da908a27e87258bf3037c08e5c9"
+    },
+    {
+      "file": "fold4/157695-3-0-19.wav",
+      "bytes": 705644,
+      "sha256": "0efbcaaeb6606e4568b71ccd1440abba8cbdd139018594d0f9eb185bdb03e17f"
+    },
+    {
+      "file": "fold4/159752-8-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "3e6e7e3bf37602cfa0a04186718754b4bfb708bb127031a7c6228e4ea79fc96b"
+    },
+    {
+      "file": "fold4/171305-7-0-0.wav",
+      "bytes": 518444,
+      "sha256": "5bd7e87d456743268daf10993fa4af9691baf7a1a14e87438ba1c79a71f88276"
+    },
+    {
+      "file": "fold4/175846-1-0-0.wav",
+      "bytes": 429200,
+      "sha256": "df16d252cef4a18fabc25541c8db314c667e26bce6bbb037e7491d17e05a645d"
+    },
+    {
+      "file": "fold4/187377-4-0-0.wav",
+      "bytes": 352844,
+      "sha256": "db3cdef5db88213d4fe5294b51f0a16b12db62c809e12d00b1e5dd69793e77c0"
+    },
+    {
+      "file": "fold4/195969-0-0-1.wav",
+      "bytes": 1152080,
+      "sha256": "1b438f614bb3ecb78333998fcd954d0affc4ec3708bb09fdd552c791dcb9ff88"
+    },
+    {
+      "file": "fold4/196061-2-0-0.wav",
+      "bytes": 358136,
+      "sha256": "45efd70633cd5bc5be11bb9ead518b7d2901c279f77e14380d3d5537c0215326"
+    },
+    {
+      "file": "fold4/206037-2-0-11.wav",
+      "bytes": 705644,
+      "sha256": "938248669eab8e30cc67d02f82e612dfbf6731c794351b3ce68423cbf96c0dd6"
+    },
+    {
+      "file": "fold4/24632-6-0-0.wav",
+      "bytes": 86480,
+      "sha256": "3108450dfedf2c3c9da6b133ad6998367fa2c17cd52433b58eb85780ff0aa3a4"
+    },
+    {
+      "file": "fold4/24652-6-0-0.wav",
+      "bytes": 42380,
+      "sha256": "f35d120b554499348d51d75267f4201f916084c85126b4d2e40aed9a9dbb2842"
+    },
+    {
+      "file": "fold4/44278-1-0-0.wav",
+      "bytes": 182808,
+      "sha256": "80c4ea34d16dc54e471e4ea537894599925f9ad197017d29bf4e98f87f74a64c"
+    },
+    {
+      "file": "fold4/47926-3-0-0.wav",
+      "bytes": 44540,
+      "sha256": "73d24ab289351a2d0d19e63ad95b5ce7681d60f06d0ce9d0da15b9bd01ccd359"
+    },
+    {
+      "file": "fold4/54081-9-0-24.wav",
+      "bytes": 1536044,
+      "sha256": "7a8d479db4c55da027e59e631b613555b5ba6cf5580fe52d2d80e0306736a8d1"
+    },
+    {
+      "file": "fold4/55018-0-0-102.wav",
+      "bytes": 705644,
+      "sha256": "cba397ee193166949ce78c636dace18e318bc9e67be5fea1fef9f485562fc31e"
+    },
+    {
+      "file": "fold4/61790-9-0-10.wav",
+      "bytes": 705644,
+      "sha256": "6a7498e1e3ab3dd43b5a34cffabffde1de5dcbbce3e47a8f18391d5c9b770fe2"
+    },
+    {
+      "file": "fold4/81068-5-0-0.wav",
+      "bytes": 529280,
+      "sha256": "c13aca2d1e05dc0696c82420fb14d8ee8765592b6f31a2d0f04a69fdf37c4849"
+    },
+    {
+      "file": "fold4/94020-8-0-0.wav",
+      "bytes": 393220,
+      "sha256": "bf42f89f17aae677bb43a520af91818b8191cb025bbde4c803f4da2d05774629"
+    },
+    {
+      "file": "fold5/105425-9-0-1.wav",
+      "bytes": 705644,
+      "sha256": "fdc1bbd902ebfffe7fb5f2fe4b039cc86ab829fb309e6dd4dfecd82d2eba6f28"
+    },
+    {
+      "file": "fold5/106487-5-0-0.wav",
+      "bytes": 705644,
+      "sha256": "a3c7570fe26cdd52fd28e9009c3b29148a081f2add35bd47c61cbe66359ea09c"
+    },
+    {
+      "file": "fold5/111671-8-0-0.wav",
+      "bytes": 768044,
+      "sha256": "572933041b23adf740c838fc0ed70b6ea150098638a7a25f6f67779a2b1ded45"
+    },
+    {
+      "file": "fold5/145611-6-0-0.wav",
+      "bytes": 444248,
+      "sha256": "68d2d8db2773ba549520aec8589f277a78322b46fd8271c3bccb9fcf48394ae6"
+    },
+    {
+      "file": "fold5/156869-8-0-0.wav",
+      "bytes": 705644,
+      "sha256": "5a23bf22fda79d4a1875f71bb73296f10c77d1c3a15164cd6b4606ef61558852"
+    },
+    {
+      "file": "fold5/165774-7-0-0.wav",
+      "bytes": 615380,
+      "sha256": "4777ff7a3043cfe68d0c15a0828e368710d12265e191c8b14dc8c09c96b4821c"
+    },
+    {
+      "file": "fold5/172460-9-0-100.wav",
+      "bytes": 1152080,
+      "sha256": "0f392697d974488c68f09adbb6e73e241b75aa2698863abc64060f3133954deb"
+    },
+    {
+      "file": "fold5/173993-3-0-25.wav",
+      "bytes": 1536044,
+      "sha256": "7b58de60893288a5a37b6f18b4fde3d9f398507115d57750ce8ca83e400f0984"
+    },
+    {
+      "file": "fold5/180125-4-0-16.wav",
+      "bytes": 705644,
+      "sha256": "856f0dedef6b73cf82c9101a922494a629d1afd4a9c1d072f977cf49705a717e"
+    },
+    {
+      "file": "fold5/19007-4-0-0.wav",
+      "bytes": 44860,
+      "sha256": "fcb9f4c1f84ba0fb3864ba3af80665031970718146832cf99d43b8c8ecadc01b"
+    },
+    {
+      "file": "fold5/190893-2-0-10.wav",
+      "bytes": 705644,
+      "sha256": "16b161e3ea23e8d2562b9ce80cb85def586ed39f394c8f98e1105f6d310df2b9"
+    },
+    {
+      "file": "fold5/21187-5-0-0.wav",
+      "bytes": 215252,
+      "sha256": "e38c3f5fe1f5f49714b88a8dc9fe0142cbb9c7758ea0c98c830f3e5192212337"
+    },
+    {
+      "file": "fold5/45256-1-0-0.wav",
+      "bytes": 73034,
+      "sha256": "e8fea634b2d403d9c99a1845a7639e3e41068397c0bb2ade8f3ac8ad3a111b24"
+    },
+    {
+      "file": "fold5/46391-1-0-0.wav",
+      "bytes": 705644,
+      "sha256": "b296f438245eaa5693dca6164cf2dd47cfb2f1746485dca2d918ffe00ee4e96d"
+    },
+    {
+      "file": "fold5/49312-2-0-1.wav",
+      "bytes": 705644,
+      "sha256": "0070553b97b8f4733e546c7d6e6d6e078efd51d75e8300524b8c441454b7f55a"
+    },
+    {
+      "file": "fold5/50885-3-0-2.wav",
+      "bytes": 705644,
+      "sha256": "cb07573895f52dfe7fbaaf42f8ef4f15662859831bd78d75647f5b92c3058398"
+    },
+    {
+      "file": "fold5/60846-0-0-0.wav",
+      "bytes": 705644,
+      "sha256": "7e6a9090da5aad5d86e2d85434c6b0cfe032e4e640c6d6e0460c1d85ce2cbaf6"
+    },
+    {
+      "file": "fold5/7066-6-0-0.wav",
+      "bytes": 144548,
+      "sha256": "3e48621863c3483dde7372b36c9513e83445211a157ec2a19f74188ab935e1ca"
+    },
+    {
+      "file": "fold5/85569-0-0-0.wav",
+      "bytes": 384044,
+      "sha256": "63f234eaf6ff038fbc74de7bea205ae79d9d008353b8747358f8bb536390c812"
+    },
+    {
+      "file": "fold5/90013-7-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "fc3dd284f44cd4b63d36948af9915c66940f61d839409b192beddd19ddd05ab5"
+    },
+    {
+      "file": "fold6/101281-3-0-0.wav",
+      "bytes": 705644,
+      "sha256": "655047c5da4c76f44619b1898952b62d691f53da8ba7051f4c1f1c666741df33"
+    },
+    {
+      "file": "fold6/111386-5-0-0.wav",
+      "bytes": 705644,
+      "sha256": "ea3668cd44eed155f1ff3639bc2745578426c59ccd59f8c298ea41787fef6cb9"
+    },
+    {
+      "file": "fold6/124389-8-1-0.wav",
+      "bytes": 705644,
+      "sha256": "90509d62b8219953b22966f34da71d6510dc4fb4184b599e0145791b02c97ed0"
+    },
+    {
+      "file": "fold6/132021-7-0-0.wav",
+      "bytes": 705644,
+      "sha256": "e05011d33aadcd9f3432141ee2b0e40e6b9a884080448e9efb51b316526e4f94"
+    },
+    {
+      "file": "fold6/14114-4-0-0.wav",
+      "bytes": 705644,
+      "sha256": "19cbac3c4aef69a3dc105689b91cd6091ddfb863c5ece88f8b4d558aaabcd208"
+    },
+    {
+      "file": "fold6/162434-6-0-0.wav",
+      "bytes": 471494,
+      "sha256": "1b968d8b960c5794fc893ca5655bab0cacbc3a20978f795427bfff76263b63a0"
+    },
+    {
+      "file": "fold6/179725-4-0-0.wav",
+      "bytes": 282284,
+      "sha256": "ea8778be29a3d317cc12f50ee13ee8586d4d4086d4e8d57a5ae06ce90b0ba5cc"
+    },
+    {
+      "file": "fold6/182474-1-0-0.wav",
+      "bytes": 236420,
+      "sha256": "296377f43e0837080b6c7cb0b0347249b93ec3ead3f14bc4254f2d169604d3b5"
+    },
+    {
+      "file": "fold6/190680-3-1-0.wav",
+      "bytes": 406688,
+      "sha256": "b7522efb81400184375fc458e622a62ebf8bcfc55ddc6c2994d4a980d9cfd24a"
+    },
+    {
+      "file": "fold6/194321-9-0-100.wav",
+      "bytes": 1152080,
+      "sha256": "bb6d11ea76316fb732dea4a28b0b7081adabf9198feca39f7aa41133d175c241"
+    },
+    {
+      "file": "fold6/196088-2-0-0.wav",
+      "bytes": 377540,
+      "sha256": "8d106d30773fd7c47a07e0e29b2433910abfe9aa2ef1e627bcc8b617e4841b8b"
+    },
+    {
+      "file": "fold6/204240-0-0-0.wav",
+      "bytes": 1058480,
+      "sha256": "d0901c263f8eb341223b5a448d450ebfd0e3669b90647de45570498bbac554a4"
+    },
+    {
+      "file": "fold6/30206-7-0-0.wav",
+      "bytes": 705644,
+      "sha256": "ba9b3e73f8ff276eb5465d15c7ed176df3c464b9204fb88d1b2e617533786e7c"
+    },
+    {
+      "file": "fold6/36403-6-0-0.wav",
+      "bytes": 132344,
+      "sha256": "9c801174dc7ad82e02bec8d71c10fd677ca877a6b07a615798a571b46c669ae6"
+    },
+    {
+      "file": "fold6/43802-1-0-0.wav",
+      "bytes": 34604,
+      "sha256": "b9d9aa2b729e655465e2228b72374e2dcbdd71b9fe68d7c49bda9c7f3f0e1de6"
+    },
+    {
+      "file": "fold6/62564-5-0-0.wav",
+      "bytes": 705644,
+      "sha256": "68ac8f5459e542bd994b5a61d7883cbeb0052d71e3bb9025e38332bb7a7e868b"
+    },
+    {
+      "file": "fold6/63724-0-0-0.wav",
+      "bytes": 705644,
+      "sha256": "6427af19a1a2e23cf68c975c9c4588864b5abe2c42a3fd32f8d0e15f802b0da6"
+    },
+    {
+      "file": "fold6/69962-2-0-11.wav",
+      "bytes": 705644,
+      "sha256": "5d04b56de59fb28042edffe36dd0b1da2948af84986503700cfc05e67972c723"
+    },
+    {
+      "file": "fold6/74726-8-0-0.wav",
+      "bytes": 705644,
+      "sha256": "1ad824b7f3e59a5aa9d1032965429eb5da3a69d6901c7a3d95b847c9b3be353d"
+    },
+    {
+      "file": "fold6/89442-9-0-14.wav",
+      "bytes": 1058480,
+      "sha256": "248fdddb4482ee56098d0b8362b5f5067592fc499d3d5b22b833e130ea70005d"
+    },
+    {
+      "file": "fold7/104625-4-0-15.wav",
+      "bytes": 2304080,
+      "sha256": "c7093297b73312d6191745a3a4baeb99fbb71c1c055a5f5b19fba3c2a76133cd"
+    },
+    {
+      "file": "fold7/105289-8-0-0.wav",
+      "bytes": 705644,
+      "sha256": "f1b5200ebe12f6f3ca9d9d34f499d054dd429901c35a6acd3fc80cbdee2cb05c"
+    },
+    {
+      "file": "fold7/135527-6-0-0.wav",
+      "bytes": 225836,
+      "sha256": "90d6d94caa3dd0c4ae268df7242c22dce058a9fef89898b7b9f0d9310788f9f8"
+    },
+    {
+      "file": "fold7/146845-0-0-0.wav",
+      "bytes": 1058480,
+      "sha256": "8b0bd081820686f9564ab603439b55a986c1dc023036964059fc56ec1774b131"
+    },
+    {
+      "file": "fold7/14772-7-0-0.wav",
+      "bytes": 111176,
+      "sha256": "d87f9e368fa32227b940b43d24fed176ea6c5f190d3f502e7108acdfa016a692"
+    },
+    {
+      "file": "fold7/148827-6-0-0.wav",
+      "bytes": 167624,
+      "sha256": "79f2f9ed972cafb4961777267ceb0013a6d017652c41faa0131892ad325eddfe"
+    },
+    {
+      "file": "fold7/149193-5-0-0.wav",
+      "bytes": 2304080,
+      "sha256": "e68507326cf371659f26e907985ef3f1e0f3639c1ff76af4f2e697b9c1aafc37"
+    },
+    {
+      "file": "fold7/155315-3-0-0.wav",
+      "bytes": 88244,
+      "sha256": "431e9f3cfe9cb89a739ee82c0c1f5a27e2abedea6da37375aa23eea1b37e5d04"
+    },
+    {
+      "file": "fold7/158593-2-0-0.wav",
+      "bytes": 1058480,
+      "sha256": "36b68dc2e4373c90bf030bf9e0a8e9a2200217febfd27bcab896752b777e1d3d"
+    },
+    {
+      "file": "fold7/165192-9-0-118.wav",
+      "bytes": 705644,
+      "sha256": "4e98ea91990c376820564535564a75629e4fda922c93c575c4c8a085af7b8e9d"
+    },
+    {
+      "file": "fold7/165644-4-0-0.wav",
+      "bytes": 705644,
+      "sha256": "ad12a0b1e48dbcab119e241efcd4119f8de51fda38174a54097f24b5d01e5395"
+    },
+    {
+      "file": "fold7/171184-9-0-17.wav",
+      "bytes": 1152080,
+      "sha256": "27a470ac25d5c2b224a360b9cccba600411fd6edd684381a65b1d6a4c9850cfc"
+    },
+    {
+      "file": "fold7/202516-0-0-0.wav",
+      "bytes": 768044,
+      "sha256": "a5573df4b50ec0523847bed48f0f8c8184f947a5d1916b1bf4a2193037f89697"
+    },
+    {
+      "file": "fold7/49313-2-0-1.wav",
+      "bytes": 705644,
+      "sha256": "39c0d387d0d65bb41b22df6f5898456e80983dd28c282c98ddcf8aae3d03e17d"
+    },
+    {
+      "file": "fold7/50454-5-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "6af5d1e87324e2c5bf6c7f7bd7726c1e89d3d0d9b4c1aeff921da900dbbc29e0"
+    },
+    {
+      "file": "fold7/57596-3-0-0.wav",
+      "bytes": 475844,
+      "sha256": "38d20db823cedc706d3ed786ed072885f84536fc76a9e373597eb55e64c74377"
+    },
+    {
+      "file": "fold7/77751-7-0-0.wav",
+      "bytes": 768044,
+      "sha256": "15c89fbfa811298dab720ddfae1c7f57e15fac39b7b9e3ff3decfa0ab3abc9cd"
+    },
+    {
+      "file": "fold7/89679-1-0-0.wav",
+      "bytes": 228596,
+      "sha256": "f9d8f20966b01e5f028f8e0ac448fd3536b7b259cba3319a232dd26b6570c304"
+    },
+    {
+      "file": "fold7/98525-8-0-0.wav",
+      "bytes": 705644,
+      "sha256": "0a672224b718d791caf76305064e77aa3ca7319b139ad492b361943731e9214b"
+    },
+    {
+      "file": "fold7/99812-1-0-0.wav",
+      "bytes": 705644,
+      "sha256": "e303cd4014d6d683672543f773959c46a0680769d4398d4cb58dc08aa6480d87"
+    },
+    {
+      "file": "fold8/103076-3-0-0.wav",
+      "bytes": 242654,
+      "sha256": "4f4f6e577563e9e80986ab4537696589990bc2601d7669333712a1ca11c6d6ee"
+    },
+    {
+      "file": "fold8/107090-1-0-0.wav",
+      "bytes": 105696,
+      "sha256": "0f4f76022e1b34fb05fd35934c16db0ed69b34538cf6ce897ba656090d0a456b"
+    },
+    {
+      "file": "fold8/114280-3-0-0.wav",
+      "bytes": 384044,
+      "sha256": "a0a450d155fded99cac2ffd78415e6c318b138241f65106bc8719bdb2b1fe67d"
+    },
+    {
+      "file": "fold8/156358-5-0-0.wav",
+      "bytes": 768044,
+      "sha256": "6dfdb99302c953832e621821ea42816a567fcca608be08f0fbea1039825f5ed2"
+    },
+    {
+      "file": "fold8/157868-8-0-0.wav",
+      "bytes": 352844,
+      "sha256": "f9d5fb2543e90eabc4f704b9266c5c24dc98b881c1bb6f1b6340ffac5a44a8b1"
+    },
+    {
+      "file": "fold8/159706-6-0-0.wav",
+      "bytes": 469460,
+      "sha256": "2b5f00435bd5e2172dbadfb93a9880ae690376c89ab45502a6552b9d8e27966b"
+    },
+    {
+      "file": "fold8/162103-0-0-0.wav",
+      "bytes": 705644,
+      "sha256": "1ee836e7a4a10374fab2ecabe719076c317e82108ceb7176e9d60f672c4a0f42"
+    },
+    {
+      "file": "fold8/167702-4-0-0.wav",
+      "bytes": 705644,
+      "sha256": "ea4d8d0358667e84cb45a919a3c5bce147798c5e0d12e18cde2c95ebbb4f6349"
+    },
+    {
+      "file": "fold8/168037-4-0-0.wav",
+      "bytes": 545156,
+      "sha256": "171d0b6c1c175960e8cb1151b5c284ad039b314e20d8145b80d5d72c766a2bf6"
+    },
+    {
+      "file": "fold8/186940-5-0-0.wav",
+      "bytes": 676820,
+      "sha256": "0281e2e5b0498f07b7bd7db3d01b06f9ea8360930ba22d46a2f380618fe86c36"
+    },
+    {
+      "file": "fold8/193699-2-0-109.wav",
+      "bytes": 1152080,
+      "sha256": "afb3b6ed9a0360a4d7223dc8d43fdc97d2b023a36975c0bfef67563b7a8e9806"
+    },
+    {
+      "file": "fold8/196057-2-0-0.wav",
+      "bytes": 705644,
+      "sha256": "5869ade92777a0f5a3218e43b1962c53916a5818260f96054194a5e9306d19cd"
+    },
+    {
+      "file": "fold8/33340-7-0-0.wav",
+      "bytes": 625680,
+      "sha256": "de0a7b92a949ec286ae79e6abafdc89409a3b17c217200a7f3241400197cd328"
+    },
+    {
+      "file": "fold8/39967-9-0-0.wav",
+      "bytes": 705644,
+      "sha256": "d40234494c38053a0f2b023743f66defc689bd2edf1e0465e493099ddf0db91c"
+    },
+    {
+      "file": "fold8/66324-9-0-19.wav",
+      "bytes": 705644,
+      "sha256": "ad6c7e99c504da2e5121b3f29bedc656ce570235bbc37529c357ed7604307238"
+    },
+    {
+      "file": "fold8/68080-7-0-0.wav",
+      "bytes": 352844,
+      "sha256": "a489a6b61f013620525a2bc2edc1e92114b28dc7bda66f84e9db47d6db5e4c87"
+    },
+    {
+      "file": "fold8/6984-1-0-0.wav",
+      "bytes": 77392,
+      "sha256": "0209db1757b61e8ee6e946151f53fbc38cb88e902ab9bd058c7f0f9388c74199"
+    },
+    {
+      "file": "fold8/7065-6-0-0.wav",
+      "bytes": 532772,
+      "sha256": "fd44f0b675df97bb921eadc64f4456397822b34ce524b5b3ef377f2b124a92a3"
+    },
+    {
+      "file": "fold8/71177-8-0-0.wav",
+      "bytes": 705644,
+      "sha256": "3981a85baa55166070ab8c4a10ddab569d7d8791635a8299a22f2cfb1c8198c8"
+    },
+    {
+      "file": "fold8/74677-0-0-0.wav",
+      "bytes": 705644,
+      "sha256": "b3f189b1b0296d56721aafa9bb9d3860d4a9f6086445d59d8aedadf83fbf40cc"
+    },
+    {
+      "file": "fold9/105029-7-0-0.wav",
+      "bytes": 705644,
+      "sha256": "1640a55d6214a9a87f4a696b94f6ca45bda2a82ca72824e3d91f05cd2ca68fec"
+    },
+    {
+      "file": "fold9/106955-6-0-0.wav",
+      "bytes": 202904,
+      "sha256": "7f6e69bc296db4d3e32afffd99c07f15f2345602c48d7ec9fe423b3b3ddf7c30"
+    },
+    {
+      "file": "fold9/119449-5-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "3adb824a38b58317a9d0de383672149d839d5416e26de7e7eba03490cc534f4c"
+    },
+    {
+      "file": "fold9/119809-7-0-0.wav",
+      "bytes": 705644,
+      "sha256": "081bdb340eb0c27e03845d6738325e2199f499734211a07955c55ad4e5893e44"
+    },
+    {
+      "file": "fold9/136399-6-0-0.wav",
+      "bytes": 964880,
+      "sha256": "57b2fd6719d09357b7cd1b9bac14c878fb30a3e4340f31463895213e4e01fb99"
+    },
+    {
+      "file": "fold9/14111-4-0-0.wav",
+      "bytes": 705644,
+      "sha256": "72126c05620a0587b0a9b6037b265601a21eb19af05d7091ca4aa294b7eb6f7e"
+    },
+    {
+      "file": "fold9/157866-8-0-0.wav",
+      "bytes": 352844,
+      "sha256": "6d5893b621c665028fef5f3f95a941553a2c3d88fe545089baf549ddd11578f6"
+    },
+    {
+      "file": "fold9/159726-3-0-0.wav",
+      "bytes": 417344,
+      "sha256": "41ebc9276cd5954a720f5c2c4302cac48bef866b312212721bf7f4220ad6774d"
+    },
+    {
+      "file": "fold9/159744-8-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "8e531bd1febee4dad185b7683753e23bd447f67ce56076abe388fd76d57ccc27"
+    },
+    {
+      "file": "fold9/165454-0-0-0.wav",
+      "bytes": 768044,
+      "sha256": "51f818a8e7e84b120c485a6d4d722f0ce134c7db98f5f2a9a65aa97c18dd0469"
+    },
+    {
+      "file": "fold9/177620-3-0-20.wav",
+      "bytes": 1152080,
+      "sha256": "9ed63e483c012af21ede68b09d9c0c0124f63618cd2919714838fdbb4f07a50f"
+    },
+    {
+      "file": "fold9/194310-9-0-15.wav",
+      "bytes": 705644,
+      "sha256": "c72ee8a8f42ce160624596316be0cd250d413b86f81d2b4056feaf4bb54712c9"
+    },
+    {
+      "file": "fold9/196058-2-0-0.wav",
+      "bytes": 493480,
+      "sha256": "fb5a87b6450288652f1a97f68cfacf86ebb7156f568968365a16a5ab4242f138"
+    },
+    {
+      "file": "fold9/26185-1-0-0.wav",
+      "bytes": 58256,
+      "sha256": "f2555f97c9b3521df0cf3c5327465082c526d33e2c4b645b81a9f523bb8fbb0e"
+    },
+    {
+      "file": "fold9/39856-5-0-0.wav",
+      "bytes": 705644,
+      "sha256": "92f1ddce8988e4362fb38193883e3ab96304240c053798db9c7409cce7f66125"
+    },
+    {
+      "file": "fold9/42101-1-1-0.wav",
+      "bytes": 232604,
+      "sha256": "cc1a77358b7ce52cc539eac52d8a270e7715db428fa31642b98bfdaf9b450695"
+    },
+    {
+      "file": "fold9/54976-4-0-0.wav",
+      "bytes": 1152080,
+      "sha256": "671bb71e8ef81a69616fb1ebc189412950ad08a8bb6d2087bfbc465e7dbe395e"
+    },
+    {
+      "file": "fold9/59037-2-0-6.wav",
+      "bytes": 705644,
+      "sha256": "b7a11642d581a59025634652896a3a749f16646e2186fb47fed508e9cefea5d7"
+    },
+    {
+      "file": "fold9/75743-0-0-0.wav",
+      "bytes": 705644,
+      "sha256": "a66aff38d5154af302be185df3d0f03ca049481521a526f8e1058d1e02744819"
+    },
+    {
+      "file": "fold9/94182-9-0-0.wav",
+      "bytes": 705644,
+      "sha256": "6ad98c38857620fbb700fdede69ae45d3cbb59a3ee79433da17977715d37865e"
+    }
+  ]
+}

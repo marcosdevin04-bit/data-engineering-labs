@@ -1,0 +1,26 @@
+[
+  {
+    "file": "CABA_rc.geojson",
+    "source": "https://bitsandbricks.github.io/data/CABA_rc.geojson",
+    "bytes": 3782534,
+    "sha256": "b57279c01e3dca67cd1730289a2d6c41e10bb5d4a10694d2a3e2b95d8623e1fe"
+  },
+  {
+    "file": "gcba_suaci_comunas.csv",
+    "source": "https://bitsandbricks.github.io/data/gcba_suaci_comunas.csv",
+    "bytes": 2807857,
+    "sha256": "7637775b085f36589563c49d2944bf29996236c61c7464d85cfbd137bd142954"
+  },
+  {
+    "file": "subte_lineas.geojson",
+    "source": "https://bitsandbricks.github.io/data/subte_lineas.geojson",
+    "bytes": 33842,
+    "sha256": "0696123e197723ec43c3f7343fc206c4c4e5cfe5c83dab219147dd81f22412e5"
+  },
+  {
+    "file": "subte_estaciones.geojson",
+    "source": "https://bitsandbricks.github.io/data/subte_estaciones.geojson",
+    "bytes": 16393,
+    "sha256": "ce8be52adfefd6379052e1401558e20ec51ea449edb1fd21b82395011c10831f"
+  }
+]

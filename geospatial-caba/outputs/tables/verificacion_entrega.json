@@ -1,0 +1,36 @@
+{
+  "executed_code_cells": 17,
+  "notebook_cells": 42,
+  "runtime_errors": [],
+  "checks_passed": true,
+  "quality": {
+    "crs_analysis": "EPSG:32721",
+    "radios": 3554,
+    "barrios": 48,
+    "estaciones": 86,
+    "invalid_source_geometries": 0,
+    "suaci_period_min": 201301,
+    "suaci_period_max": 201512,
+    "suaci_contacts_unassigned": 5777,
+    "hex_cells": 715,
+    "network_comparison_neighborhoods": 3,
+    "osm_exclusion_polygons": 1564,
+    "all_checks_passed": true,
+    "versions": {
+      "geopandas": "1.2.0",
+      "shapely": "2.2.0",
+      "pyproj": "3.8.0",
+      "contextily": "1.7.1",
+      "folium": "0.20.0",
+      "mapclassify": "2.11.0",
+      "osmnx": "2.1.1",
+      "pyarrow": "26.0.0",
+      "numpy": "2.5.3",
+      "pandas": "3.0.6",
+      "matplotlib": "3.11.2",
+      "scipy": "1.18.1",
+      "networkx": "3.6.1",
+      "osmium": "4.3.2"
+    }
+  }
+}

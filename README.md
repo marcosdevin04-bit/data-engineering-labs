@@ -17,6 +17,7 @@ Colección de trabajos académicos centrados en exploración, integración y cal
 - `temporal-feature-engineering`: Actividad 11 sobre variables temporales, validación cronológica y predicción de recompra con Online Retail y Olist.
 
 - `audio-preprocessing`: Actividad 14 sobre audio: estandarización, espectrogramas, ruido y filtros, MFCC, clasificación, aumentos y QA. Incluye notebook ejecutado, análisis, 200 audios reales y extras E.1–E.3 y F.1–F.3.
+- `geospatial-caba`: Clase 12, análisis geoespacial de CABA con GeoPandas: CRS, coropletas, uniones espaciales, cobertura SUBTE, Folium y cinco extras. Incluye notebook ejecutado, fuentes, datos, resultados y limitaciones documentadas.
 
 ## Competencias demostradas
 

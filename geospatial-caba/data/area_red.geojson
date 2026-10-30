@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "area_red",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "scope": "VILLA RIACHUELO, VILLA LUGANO, MATADEROS y estaciones cercanas" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -58.535007398315877, -34.712042516723734 ], [ -58.435329634611286, -34.713257774667269 ], [ -58.433789300703083, -34.6239202751525 ], [ -58.533360193428287, -34.622709036984169 ], [ -58.535007398315877, -34.712042516723734 ] ] ] } }
+]
+}

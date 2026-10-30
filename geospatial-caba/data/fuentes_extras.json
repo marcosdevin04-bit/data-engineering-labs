@@ -1,0 +1,23 @@
+{
+  "download_utc": "2026-10-30T14:21:13Z",
+  "assets": [
+    {
+      "asset": "base_cartodb_3857.tif",
+      "source": "CartoDB.PositronNoLabels; \u00a9 OpenStreetMap contributors \u00a9 CARTO",
+      "bytes": 2361991
+    },
+    {
+      "asset": "restricciones_osm.parquet",
+      "source": "OpenStreetMap v\u00eda OSMnx/Overpass; park, industrial, water y riverbank",
+      "polygons": 1564,
+      "bytes": 538363
+    },
+    {
+      "asset": "red_peatonal_sur.graphml",
+      "source": "OpenStreetMap v\u00eda OSMnx/Overpass; red walk del \u00e1rea de estudio sur",
+      "nodes": 19685,
+      "edges": 59404,
+      "bytes": 24426296
+    }
+  ]
+}

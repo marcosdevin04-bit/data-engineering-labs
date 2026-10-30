@@ -1,0 +1,8 @@
+Abrir mapa_caba_avanzado.html en un navegador con conexión a Internet.
+Usar el selector de capas de la esquina superior derecha. Comparar una coropleta por vez para evitar mezcla de colores.
+La coropleta inicial muestra contactos SUACI 2013–2015 por habitante; no personas únicas ni demanda de transporte.
+Los hexágonos muestran estimaciones y percentiles de contactos/km², no contactos geocodificados observados.
+La cobertura usa una capa histórica de estaciones; clic en puntos para ver nombre, línea y barrio.
+Las exclusiones son un escenario de estudio, no prohibiciones legales. Los puntos violetas son referencias interiores, no estaciones propuestas definitivamente.
+Las leyendas son fijas: leer la correspondiente a la capa activa. Los mapas estáticos se incluyen para consulta sin tiles externos.
+Fuentes y fechas: data/fuentes.json y data/fuentes_extras.json. Atribución OSM/CARTO visible en el mapa.
